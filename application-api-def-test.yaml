@@ -1,0 +1,8 @@
+service:
+  dataara:
+    table: DTAARA
+  trzPopulation:
+    systemsExt: # если нет то работает для всех
+      - LK
+      - BM
+      - CM
