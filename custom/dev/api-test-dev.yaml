@@ -6,7 +6,7 @@ cluster:
     mongodb_4: testdb10:31002,testdb11:31002,testdb12:31002
 
 
-spring:
-  profiles:
-    include:
-      - api-def-test
+# spring:
+#   profiles:
+#     include:
+#       - api-def-test
